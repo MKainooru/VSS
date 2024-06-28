@@ -1,0 +1,21 @@
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Imaging.Uploader.V4.0.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Imaging.Uploader.V4.0.pdb
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Common.V4.0.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Core.V4.0.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Imaging.V4.0.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\System.Net.Http.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Common.V4.0.pdb
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Core.V4.0.pdb
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\Kivii.Imaging.V4.0.pdb
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\System.Net.Http.xml
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.V4.0.csprojResolveAssemblyReference.cache
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.Controls.PictureBoxEx.resources
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.Properties.Resources.resources
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.V4.0.csproj.GenerateResource.Cache
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.V4.0.dll
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.V4.0.pdb
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.Forms.FrmCamera.resources
+D:\Kivii.Org\Kivii.V5\Kivii.Imaging.Uploader\obj\Debug\Kivii.Imaging.Uploader.Forms.FrmLocal.resources
+D:\Kivii.Org\Kivii's Dll\V4.0\Kivii.Imaging.Uploader.V4.0.dll
+D:\Kivii.Org\Kivii's Dll\V4.0\Kivii.Imaging.Uploader.V4.0.pdb

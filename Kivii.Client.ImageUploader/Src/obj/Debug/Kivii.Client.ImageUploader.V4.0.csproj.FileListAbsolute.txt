@@ -1,0 +1,12 @@
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Client.ImageUploader.V4.0.csproj.AssemblyReference.cache
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Imaging.Uploader.Controls.PictureBoxEx.resources
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Imaging.Uploader.Forms.FrmCamera.resources
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Imaging.Uploader.Forms.FrmLocal.resources
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Imaging.Uploader.Properties.Resources.resources
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Client.ImageUploader.V4.0.csproj.GenerateResource.cache
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Client.ImageUploader.V4.0.csproj.CoreCompileInputs.cache
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Imaging.Uploader.V4.0.pdb
+D:\Projects\VSS\Kivii's Dll\V4.0\Kivii.Imaging.Uploader.V4.0.exe
+D:\Projects\VSS\Kivii's Dll\V4.0\Kivii.Imaging.Uploader.V4.0.pdb
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Cl.4C19EECA.Up2Date
+D:\Projects\VSS\Kivii.Client.ImageUploader\Src\obj\Debug\Kivii.Imaging.Uploader.V4.0.exe

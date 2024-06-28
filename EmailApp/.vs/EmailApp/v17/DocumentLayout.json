@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VSS\\EmailApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|d:\\projects\\vss\\emailapp\\emailapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|solutionrelative:emailapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|D:\\Projects\\VSS\\EmailApp\\emailapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|solutionrelative:emailapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|D:\\Projects\\VSS\\EmailApp\\emailapp\\tableinputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|solutionrelative:emailapp\\tableinputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|D:\\Projects\\VSS\\EmailApp\\emailapp\\tableinputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11DC5615-8EDB-4AC3-B65C-1F686EBCDA00}|EmailApp\\EmailApp.csproj|solutionrelative:emailapp\\tableinputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableInputDialog.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\TableInputDialog.cs",
+              "RelativeDocumentMoniker": "EmailApp\\TableInputDialog.cs",
+              "ToolTip": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\TableInputDialog.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EmailApp\\TableInputDialog.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:08:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableInputDialog.cs",
+              "DocumentMoniker": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\TableInputDialog.cs",
+              "RelativeDocumentMoniker": "EmailApp\\TableInputDialog.cs",
+              "ToolTip": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\TableInputDialog.cs",
+              "RelativeToolTip": "EmailApp\\TableInputDialog.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:45:55.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EmailApp\\Form1.cs",
+              "ToolTip": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EmailApp\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:14:56.508Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EmailApp\\Form1.cs",
+              "ToolTip": "D:\\Projects\\VSS\\EmailApp\\EmailApp\\Form1.cs",
+              "RelativeToolTip": "EmailApp\\Form1.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAzwIQBAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:08:59.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

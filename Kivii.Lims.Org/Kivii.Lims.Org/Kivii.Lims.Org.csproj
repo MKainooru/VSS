@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA1A5C22-62E0-4D2C-8579-039E4CB96759}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Kivii.Lims.Org</RootNamespace>
+    <AssemblyName>Kivii.Lims.Org</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Kivii.Barcode.V4.5, Version=5.6.2023.3000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Barcode.5.6.2023.3000\lib\net45\Kivii.Barcode.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Biz.Basic.V4.5, Version=5.6.2023.4200, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Biz.Basic.5.6.2023.4200\lib\net45\Kivii.Biz.Basic.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Biz.Customers.V4.5, Version=5.6.2023.4080, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Biz.Customers.5.6.2023.4080\lib\net45\Kivii.Biz.Customers.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Biz.Lims.V4.5">
+      <HintPath>..\..\..\Kivii.Sys.Dev\kivii.sys\Kivii.Biz.Lims\Src\obj\Debug\Kivii.Biz.Lims.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Biz.Organizations.V4.5, Version=5.6.2023.4080, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Biz.Organizations.5.6.2023.4080\lib\net45\Kivii.Biz.Organizations.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Codes.V4.5, Version=5.6.2023.4000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Codes.5.6.2023.4000\lib\net45\Kivii.Codes.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Common.V4.5, Version=5.6.2024.5200, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Common.5.6.2024.5200\lib\net45\Kivii.Common.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Compression.V4.5, Version=5.5.2023.2000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Compression.5.6.2023.2000\lib\net45\Kivii.Compression.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Core.V4.5, Version=5.6.2024.5200, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Core.5.6.2024.5200\lib\net45\Kivii.Core.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Jobs.V4.5, Version=5.6.2023.4000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Jobs.5.6.2023.4000\lib\net45\Kivii.Jobs.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Linq.Mysql.V4.5, Version=5.6.2023.3000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Linq.Mysql.5.6.2023.3000\lib\net45\Kivii.Linq.Mysql.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Linq.Oracle.V4.5, Version=5.6.2024.1000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Linq.Oracle.5.6.2024.1000\lib\net45\Kivii.Linq.Oracle.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Linq.Sqlite.V4.5, Version=5.6.2023.3000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Linq.Sqlite.5.6.2023.3000\lib\net45\Kivii.Linq.Sqlite.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Linq.V4.5, Version=5.6.2024.6000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Linq.5.6.2024.6000\lib\net45\Kivii.Linq.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.MiniProfiler.V4.5, Version=5.6.2023.2000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.MiniProfiler.5.6.2023.2000\lib\net45\Kivii.MiniProfiler.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Razor.V4.5, Version=5.6.2023.3000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Razor.5.6.2023.3000\lib\net45\Kivii.Razor.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Resources.Extjs.V6.50, Version=6.50.2020.5000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Resources.Extjs.V6.50.6.50.2020.5000\lib\Kivii.Resources.Extjs.V6.50.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Server.Http.V4.5, Version=5.6.2023.3000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Server.Http.5.6.2023.3000\lib\net45\Kivii.Server.Http.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Server.Runtime.V4.5, Version=5.6.2024.5200, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Server.Runtime.5.6.2024.5200\lib\net45\Kivii.Server.Runtime.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Storages.V4.5, Version=5.6.2022.12200, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Storages.5.6.2022.12200\lib\net45\Kivii.Storages.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Kivii.Ui.Extjs.V4.5, Version=5.6.2023.2000, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kivii.Ui.Extjs.5.6.2023.2001\lib\net45\Kivii.Ui.Extjs.V4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Kivii.Third.Scjgj\Src\Kivii.Third.Scjgj.V4.5.csproj">
+      <Project>{6ca8c1b0-c62c-4ed0-8ea4-208926a920a6}</Project>
+      <Name>Kivii.Third.Scjgj.V4.5</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

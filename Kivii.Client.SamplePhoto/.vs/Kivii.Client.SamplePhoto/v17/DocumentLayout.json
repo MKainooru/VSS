@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\kivii.client.samplephoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|solutionrelative:kivii.client.samplephoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|d:\\projects\\vss\\kivii.client.samplephoto\\kivii.client.samplephoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|solutionrelative:kivii.client.samplephoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\kivii.client.samplephoto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|solutionrelative:kivii.client.samplephoto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\kivii.client.samplephoto\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062612F-8041-4E36-BE13-4B1ACEA63BC1}|Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto.csproj|solutionrelative:kivii.client.samplephoto\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Photo.cs",
+              "RelativeDocumentMoniker": "Kivii.Client.SamplePhoto\\Photo.cs",
+              "ToolTip": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Photo.cs",
+              "RelativeToolTip": "Kivii.Client.SamplePhoto\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:15:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Kivii.Client.SamplePhoto\\Form1.Designer.cs",
+              "ToolTip": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Form1.Designer.cs",
+              "RelativeToolTip": "Kivii.Client.SamplePhoto\\Form1.Designer.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAewJoBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:59:56.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Form1.cs",
+              "RelativeDocumentMoniker": "Kivii.Client.SamplePhoto\\Form1.cs",
+              "ToolTip": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Form1.cs",
+              "RelativeToolTip": "Kivii.Client.SamplePhoto\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwLkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:48:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Form1.cs",
+              "RelativeDocumentMoniker": "Kivii.Client.SamplePhoto\\Form1.cs",
+              "ToolTip": "D:\\Projects\\VSS\\Kivii.Client.SamplePhoto\\Kivii.Client.SamplePhoto\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Kivii.Client.SamplePhoto\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:43:47.737Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|d:\\project\\vss\\kivii.client.imageuploader\\src\\forms\\frmcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|solutionrelative:src\\forms\\frmcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|D:\\Project\\VSS\\Kivii.Client.ImageUploader\\src\\forms\\frmcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|solutionrelative:src\\forms\\frmcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|D:\\Project\\VSS\\Kivii.Client.ImageUploader\\src\\controls\\videosourceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|solutionrelative:src\\controls\\videosourceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|D:\\Project\\VSS\\Kivii.Client.ImageUploader\\src\\controls\\videosourceplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9B74D3-4B85-4A0F-8B76-AF2F60EB9F68}|Src\\Kivii.Client.ImageUploader.V4.0.csproj|solutionrelative:src\\controls\\videosourceplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoSourcePlayer.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Controls\\VideoSourcePlayer.Designer.cs",
+              "RelativeDocumentMoniker": "Src\\Controls\\VideoSourcePlayer.Designer.cs",
+              "ToolTip": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Controls\\VideoSourcePlayer.Designer.cs",
+              "RelativeToolTip": "Src\\Controls\\VideoSourcePlayer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:31:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoSourcePlayer.cs",
+              "DocumentMoniker": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Controls\\VideoSourcePlayer.cs",
+              "RelativeDocumentMoniker": "Src\\Controls\\VideoSourcePlayer.cs",
+              "ToolTip": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Controls\\VideoSourcePlayer.cs",
+              "RelativeToolTip": "Src\\Controls\\VideoSourcePlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:20:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCamera.cs",
+              "DocumentMoniker": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Forms\\FrmCamera.cs",
+              "RelativeDocumentMoniker": "Src\\Forms\\FrmCamera.cs",
+              "ToolTip": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Forms\\FrmCamera.cs",
+              "RelativeToolTip": "Src\\Forms\\FrmCamera.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:29:38.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCamera.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Project\\VSS\\Kivii.Client.ImageUploader\\Src\\Forms\\FrmCamera.cs",
+              "RelativeDocumentMoniker": "Src\\Forms\\FrmCamera.cs",
+              "ToolTip": "D:\\Projects\\VSS\\Kivii.Client.ImageUploader\\Src\\Forms\\FrmCamera.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\Projects\\VSS\\Kivii.Client.ImageUploader\\Src\\Forms\\FrmCamera.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:55:50.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

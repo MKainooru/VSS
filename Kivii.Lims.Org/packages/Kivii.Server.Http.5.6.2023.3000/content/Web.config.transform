@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  
+  <appSettings>
+    <add key="ServiceName" value="Kivii Restful Api Service"/>
+    <!--<add key="ServerId" value="S001"/>-->
+  </appSettings>
+  
+
+  <location path="">
+    <system.web>
+      <httpHandlers>
+        <add path="*" type="Kivii.HttpHandlerFactory, Kivii.Core.V5.0" verb="*" />
+      </httpHandlers>
+    </system.web>
+    <system.webServer>
+      <modules runAllManagedModulesForAllRequests="true">
+        <remove name="WebDAVModule" />
+      </modules>
+      <validation validateIntegratedModeConfiguration="false" />
+      <handlers>
+        <remove name="WebDAV" />
+        <add path="*" name="Kivii.Factory" type="Kivii.HttpHandlerFactory, Kivii.Core.V5.0" verb="*" preCondition="integratedMode" resourceType="Unspecified" allowPathInfo="true" />
+      </handlers>
+    </system.webServer>
+  </location>
+ 
+</configuration>
